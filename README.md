@@ -1,6 +1,6 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! 👋
 
-Sou estudante de **Sistemas para Internet** pela **UTFPR - Guarapuava**. Tenho paixão por tecnologia e estou sempre em busca de novos desafios para aprimorar minhas habilidades no desenvolvimento web.
+Sou estudante de **Sistemas para Internet** pela **UTFPR - Guarapuava**. Tenho paixão por xadrez e tecnologia e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
 ## 🚀 Tecnologias que utilizo
 
@@ -17,13 +17,12 @@ Sou estudante de **Sistemas para Internet** pela **UTFPR - Guarapuava**. Tenho p
 
 ## 📚 Formação
 
-- **Matemática** (Graduação)
-- **Sistemas para Internet** (Cursando)
+- **Matemática - UNICENTRO(2018)** (Graduação)
+- **Sistemas para Internet - UTFPR-GP** (Cursando)
 
 ## 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-pereira-7615591a6/)
 
 <!--
 **JoaoPaulx/JoaoPaulx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
