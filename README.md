@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou estudante de **Sistemas para Internet** pela **UTFPR - Guarapuava**. Tenho paixão por xadrez e tecnologia e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
+Sou estudante de **Sistemas para Internet** pela **UTFPR - Guarapuava**. Tenho paixão por xadrez e tecnologia, além disso estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
 ## 🚀 Tecnologias que utilizo
 
